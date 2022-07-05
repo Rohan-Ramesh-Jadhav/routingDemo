@@ -1,0 +1,26 @@
+.bg-height{
+    height: 75vh;
+    overflow-x: hidden;
+}
+
+.btn-gray{
+  background-color: gray;
+  color: rgba(0, 0, 0, 0.747);
+}
+
+.bg-semi-gray{
+  background-color: rgb(66, 65, 65);
+}
+
+
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type=number] {
+  -moz-appearance: textfield;
+}
